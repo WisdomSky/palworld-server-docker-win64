@@ -1,3 +1,7 @@
+> ### Deprecation Notice: See https://github.com/WisdomSky/windows-palworld-server-docker instead.
+
+---
+
 # Palworld Windows (WIN64) Dedicated Server Docker
 
 Run Palworld Windows server on Docker (Linux) via Proton
